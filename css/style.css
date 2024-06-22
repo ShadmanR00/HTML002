@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+}
+
+header{
+    overflow: hidden;
+}
+
+.div_header_logo{
+    height: 100px;
+    width: 20%;
+    color: white;
+    float: left;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.div_header_banner{
+    width: 80%;
+    color: white;
+    float: right;
+    background-color: goldenrod;
+    text-align: center;
+    height: 100px;
+}
+
+.header_bar{
+    background-color: rgb(69, 82, 50);
+    text-align: center;
+    height: 100px;
+    color: wheat;
+}
+
+.content{
+    overflow: hidden;
+}
+
+.left_content{
+    width: 20%;
+    height: 200px;
+    background-color: crimson;
+    float: left;
+    text-align: center;
+}
+
+.center_content{
+    width: 60%;
+    height: 200px;
+    background-color: chartreuse;
+    float: left;
+}
+
+.center_top{
+    height: 30%;
+    background-color: khaki;
+    text-align: center;
+}
+
+.center_center{
+    height: 40%;
+    overflow: hidden;
+}
+
+.center_center_left{
+    height: 100%;
+    background-color: darkslategrey;
+    text-align: center;
+    float: left;
+    width: 50%;
+}
+
+.center_center_right{
+    height: 100%;
+    width: 50%;
+    background-color: rebeccapurple;
+    text-align: center;
+    float: right;
+}
+
+.center_bottom{
+    height: 30%;
+    background-color: violet;
+    text-align: center;
+}
+
+.right_content{
+    width: 20%;
+    height: 200px;
+    background-color: forestgreen;
+    float: left;
+    text-align: center;
+}
+
+footer{
+    background-color: aqua;
+    color:black ;
+    font-size: 40px;
+    text-align: center;
+    height: 200px;
+}
